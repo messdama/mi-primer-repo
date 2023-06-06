@@ -1,0 +1,12 @@
+.logo{
+    width: 60px;
+}
+
+body{
+    height: 100%;
+    margin: 10px;
+    padding: 0;
+    background: url(../img/164F9069-CAF1-4201-AC3B-59AB8DD2D2B6.png) no-repeat;
+    background-size: cover;
+}
+
